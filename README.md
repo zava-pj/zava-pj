@@ -1,4 +1,7 @@
 <img src="imafem.svg">
+# About Me:
+- I´m Computer Science Studant in UniFil
+- Enjoy studying languages
 
 <!--
 **zava-pj/zava-pj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
