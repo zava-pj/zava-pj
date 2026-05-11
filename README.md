@@ -1,5 +1,5 @@
 <img src="imafem.svg">
-# About Me:
+# About Me
 - I´m Computer Science Studant in UniFil
 - Enjoy studying languages
 
